@@ -1,4 +1,7 @@
 # Remotos
+## añadir remoto
+git remote add origib ' nombre url.git'
+git remote add gitalb ' nombre url.git'
 
 ## Gestión de repositorios remotos
 
