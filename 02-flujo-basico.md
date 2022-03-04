@@ -72,6 +72,7 @@ Hasta ahora con el commit hemos grabado nuestros cambios en nuestro repositorio 
 Para enlazarlo
 ```bash 
 git add origin repositorio.git
+el push sobre la rama master o cualquier otra rama
 ``` 
 
 ```bash     

@@ -2,6 +2,11 @@
 ## añadir remoto
 git remote add origib ' nombre url.git'
 git remote add gitalb ' nombre url.git'
+## BORRAR REMOTO 
+Si grabamos mal un remoto o redefinimos
+git remote rm nombreremoto
+
+y luego volvemos a redefinirlo 
 
 ## Gestión de repositorios remotos
 
