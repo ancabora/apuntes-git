@@ -33,7 +33,7 @@ Em ambos casos el símbolo `*` nos indica en qué rama estamos actualmente.
 
 Podemos crear una rama con el siguiente ejemplo:
 
-```
+```git branch ....nombre rama
 $ git checkout -b nombreDeLaNuevaRama
 ```
 El parámetro b implica que si no tenemos creada la rama nos la creará antes de cambiarse a ella.
@@ -54,11 +54,7 @@ Podemos cambiar a una rama con el siguiente ejemplo:
 $ git checkout nombreDeLaNuevaRama
 ```
 
-### Trackear una rama remota
 
-```
-$ git checkout --track repositorioRemotoEnlazado/ramaATrackear
-```
 
 ### Borrar una rama remota
 
